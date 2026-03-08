@@ -23,3 +23,5 @@ opt.smartcase = true       -- ...sauf si tu mets une majuscule
 opt.splitright = true      -- nouveau panneau vertical à droite
 opt.splitbelow = true      -- nouveau panneau horizontal en bas
 opt.clipboard = "unnamedplus" -- partage le presse-papier avec le système
+
+vim.env.PATH = vim.env.PATH .. ":/usr/local/go/bin"
