@@ -2,7 +2,7 @@ return {
 
   -- Colorscheme
   {
-    "EdenEast/tokyonight.nvim",
+    "folke/tokyonight.nvim",
     lazy = false,
     priority = 1000,
     config = function()
