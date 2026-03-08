@@ -24,4 +24,6 @@ map("n", "<leader>w", "<cmd>w<CR>", { desc = "Sauvegarder" })
 
 -- Quitter
 map("n", "<leader>q", "<cmd>q<CR>", { desc = "Quitter" })
+map("n", "<leader>bn", "<cmd>bn<CR>", { desc = "Buffer suivant" })
+map("n", "<leader>q", "<cmd>bp<CR>", { desc = "Buffer précédent" })
 

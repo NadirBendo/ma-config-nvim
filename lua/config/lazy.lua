@@ -13,4 +13,5 @@ end
 vim.opt.rtp:prepend(lazypath)
 
 -- Initialisation avec une liste de plugins vide pour l'instant
-require("lazy").setup({})
+require("lazy").setup("config.plugins")
+
