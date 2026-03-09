@@ -33,4 +33,5 @@ nvim # Lazy installe les plugins automatiquement
 - **pyright** — LSP Python
 - **sqlls** — LSP SQL
 - **blink.cmp** — autocomplétion
+- **toggleterm** - terminal flottant affichable avec un raccourci (ctrl+t)
 
